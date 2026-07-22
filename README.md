@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ARES (Adversarial Reasoning Engine System) This is my life's work and I'm kinda obssessed with it. 
-- 🌱 I’m currently learning Cybersecurity @ SNHU. NSLS, Honor Student (I still don't know half of the stuff I appear to know, seriously)
+- 🌱 I’m currently learning Cybersecurity 
 - 👯 I’m looking to collaborate on: Not looking at the moment. 
 - 🤔 I’m looking for help with: At the moment I am just a Scholar obssessed with his work..
 - 💬 Ask me about: how I integrate AI to my workflows. 
